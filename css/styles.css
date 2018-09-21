@@ -14,6 +14,18 @@ h1 {
     font-family: "arial";
 }
 
+.cis-260 {
+    color: darkorange;
+}
+
+.test {
+    background-color: darkgreen;
+}
+
+.link {
+    background-color: thistle;
+}
+
 p {
     color: aquamarine;
     background-color: palegoldenrod
