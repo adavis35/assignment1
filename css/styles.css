@@ -1,21 +1,25 @@
 html {
-    color: red;
+    color: blueviolet;
 }
 
 /*
 body {
     color: blue;
-    background-color: cornsilk
-*/
+    background-color: cornsilk;
 }
+
+#000000
+
+*/
+
 h1 {
-    color: green;
+    color: #4b375e;
     background-color: bisque;
     font-family: "arial";
 }
 
 .cis-260 {
-    color: darkorange;
+    font-family: cursive
 }
 
 .test {
@@ -27,9 +31,12 @@ h1 {
 }
 
 p {
-    color: aquamarine;
+    color: palevioletred;
+    font-size: 48;
     background-color: palegoldenrod
 }
+
+
 a {
     color: red;
 }
